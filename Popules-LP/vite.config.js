@@ -7,7 +7,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/<repo-name>/',
+  base: '/Popules-LandingPage/',
   plugins: [
     vue(),
     // vueDevTools(),
